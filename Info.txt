@@ -1,1 +1,3 @@
-## Moodlelite - a lighter moodle app
+## Moodl
+elite - a lighter moodle app
+Dr. Cordova
